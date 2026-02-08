@@ -9,17 +9,17 @@ T-DSP combines studio-quality audio with the [Teensy](https://www.pjrc.com/teens
 ### [T-DSP Desktop Pro](https://github.com/t-dsp/t-dsp_desktop_pro)
 Desktop audio backplane hosting Teensy 4.1, ESP32, and TAC5212 codec with USB Audio, MIDI, and S/PDIF.
 
-[![T-DSP Desktop Pro](https://raw.githubusercontent.com/t-dsp/t-dsp_desktop_pro/main/documentation/t-dsp-desktop-pro-3d-angle_front.png)](https://github.com/t-dsp/t-dsp_desktop_pro)
+<a href="https://github.com/t-dsp/t-dsp_desktop_pro"><img src="https://raw.githubusercontent.com/t-dsp/t-dsp_desktop_pro/main/documentation/t-dsp-desktop-pro-3d-angle_front.png" width="500" alt="T-DSP Desktop Pro"></a>
 
 ### [T-DSP TAC5212 Pro Audio Module](https://github.com/t-dsp/t-dsp_tac5212_pro_audio_module)
 Compact stereo audio codec module built around the TI TAC5212 -- the core building block of the platform.
 
-[![T-DSP TAC5212 Pro Audio Module](https://raw.githubusercontent.com/t-dsp/t-dsp_tac5212_pro_audio_module/main/documentation/t-dsp-tac5212-3d-top.png)](https://github.com/t-dsp/t-dsp_tac5212_pro_audio_module)
+<a href="https://github.com/t-dsp/t-dsp_tac5212_pro_audio_module"><img src="https://raw.githubusercontent.com/t-dsp/t-dsp_tac5212_pro_audio_module/main/documentation/t-dsp-tac5212-3d-top.png" width="500" alt="T-DSP TAC5212 Pro Audio Module"></a>
 
 ### [T-DSP IO 2x2 Combo](https://github.com/t-dsp/t-dsp_io_2x2_combo)
 2-in / 2-out balanced audio I/O backplane with combo (XLR/TRS) inputs and XLR outputs.
 
-[![T-DSP IO 2x2 Combo](https://raw.githubusercontent.com/t-dsp/t-dsp_io_2x2_combo/main/documentation/t-dsp_io_2x2_combo-3d-top.png)](https://github.com/t-dsp/t-dsp_io_2x2_combo)
+<a href="https://github.com/t-dsp/t-dsp_io_2x2_combo"><img src="https://raw.githubusercontent.com/t-dsp/t-dsp_io_2x2_combo/main/documentation/t-dsp_io_2x2_combo-3d-top.png" width="500" alt="T-DSP IO 2x2 Combo"></a>
 
 ## Design Philosophy
 
