@@ -31,4 +31,4 @@ Compact stereo audio codec module built around the TI TAC5212 -- the core buildi
 
 Browse the [repositories](https://github.com/orgs/t-dsp/repositories) to explore the hardware designs. Each project includes online viewers, interactive BOMs, and documentation.
 
-Learn more at [t-dsp.com](https://t-dsp.com).
+Learn more at [t-dsp.com](https://t-dsp.com). Join the conversation in [Discussions](https://github.com/orgs/t-dsp/discussions).
