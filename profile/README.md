@@ -14,6 +14,8 @@ Desktop audio backplane hosting Teensy 4.1, ESP32, and TAC5212 codec with USB Au
 ### [T-DSP Core](https://github.com/t-dsp/t-dsp_core)
 4-layer digital backplane hosting Teensy 4.1 and ESP32. USB Audio, MIDI, Ethernet, and TDM expansion headers for connecting T-DSP audio modules.
 
+<a href="https://github.com/t-dsp/t-dsp_core"><img src="https://t-dsp.github.io/t-dsp_core/renders/t-dsp_core-3D_blender_th_top_iso.png" width="500" alt="T-DSP Core"></a>
+
 ### [T-DSP TAC5212 Pro Audio Module](https://github.com/t-dsp/t-dsp_tac5212_pro_audio_module)
 Compact stereo audio codec module built around the TI TAC5212 -- the core building block of the platform.
 
