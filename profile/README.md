@@ -26,6 +26,11 @@ Compact stereo audio codec module built around the TI TAC5212 -- the core buildi
 
 <a href="https://github.com/t-dsp/t-dsp_io_2x2_combo"><img src="https://raw.githubusercontent.com/t-dsp/t-dsp_io_2x2_combo/main/documentation/t-dsp_io_2x2_combo-3d-top.png" width="500" alt="T-DSP IO 2x2 Combo"></a>
 
+### [T-DSP TAC5212 Audio Shield Adaptor](https://github.com/t-dsp/t-dsp_tac5212_audio_shield_adaptor)
+Compact carrier board that connects a TAC5212 audio module and Teensy 4.1 into a USB-powered audio shield with stereo line I/O, PDM MEMS mics, and USB Host.
+
+<a href="https://github.com/t-dsp/t-dsp_tac5212_audio_shield_adaptor"><img src="https://t-dsp.github.io/t-dsp_tac5212_audio_shield_adaptor/renders/t-dsp_tac5212_audio_shield_adaptor-3D_blender_th_top_iso.png" width="500" alt="T-DSP TAC5212 Audio Shield Adaptor"></a>
+
 ## Design Philosophy
 
 - **Modular** -- Codec modules solder onto backplane PCBs like components. Design your own backplane with whatever jacks and connectors your application needs.
